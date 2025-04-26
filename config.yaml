@@ -1,0 +1,15 @@
+simulation:
+  time_step: 0.016
+  gravity: -9.81
+  max_agents: 100
+
+ui:
+  window_width: 1280
+  window_height: 720
+  fullscreen: false
+
+paths:
+  assets_dir: "assets/"
+
+api_keys:
+  some_service: "YOUR_API_KEY_HERE_OR_ENV_VAR_REFERENCE"
